@@ -114,12 +114,17 @@ This test was performed as an additional demonstration and is not used as the of
 
 ## Visualizations
 
-The notebook includes:
+### Training and Validation Accuracy
 
-* Training and validation accuracy curves
-* Training and validation loss curves
-* Confusion matrix visualization
-* Classification report
+![Training and Validation Accuracy](accuracy.png)
+
+### Training and Validation Loss
+
+![Training and Validation Loss](loss.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
 
 ## Repository Structure
 
